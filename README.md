@@ -18,6 +18,17 @@ The repository is organized into folders by week, and each folder contains:
 - Working with libraries (e.g., `math`, `datetime`)
 - Basic scripting and automation
 
+## Description of my weekly tasks
+
+In my search for a solution to weekly tasks, I consulted the following information resources
+ WEEK3
+  - Free Online Course  – Python Tutorial (https://www.w3schools.com/python/)
+  - Book                  “Automate the Boring Stuff with Python” by Al Sweigart
+  - YouTube Channels      https://www.youtube.com/c/TechWithTim
+                          https://www.youtube.com/c/programmingwithmosh
+WEEK4
+  
+
 ## How to run
 
 I`m sure you have Python installed. 
@@ -25,15 +36,7 @@ To run any script:
 ```bash
 gh repo clone Svitlana937/pands-weekly-tasks
 
-## Description of my weekly tasks
 
-In my search for a solution to weekly tasks, I consulted the following information resources
- - week3
-https://www.youtube.com/c/TechWithTim
-https://www.youtube.com/watch?v=rfscVS0vtbw
-https://www.youtube.com/c/programmingwithmosh
-
- - week4
 
 
 
