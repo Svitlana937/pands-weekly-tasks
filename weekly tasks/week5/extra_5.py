@@ -1,24 +1,20 @@
-student_name = input("Enter student's name: ")
+# Ask for the student's name
+name = input("Enter student's name: ")
 
+# List to store module and grade info
 modules = []
 
+# Collect module names and grades until the user presses Enter without typing a module
 while True:
-    module_name = input("Enter module name (or press Enter to stop): ")
-    
-    if module_name == "":  # Stop when a blank module name is entered
-        break
-    
-    grade = input(f"Enter grade for {module_name}: ")  # Read grade
-    modules.append({"module": module_name, "grade": grade})  # Store module and grade
+    module = input("Enter module name (or press Enter to stop): ")
+    if not module:
+        break  # Stop when input is empty
+    grade = input(f"Enter grade for {module}: ")
+    modules.append((module, grade))  # Store as a tuple for simplicity
 
-student = {
-    "name": student_name,
-    "modules": modules
-}
-
+# Print the student info
 print("\nStudent Information:")
-print(f"Name: {student['name']}")
+print(f"Name: {name}")
 print("Modules and Grades:")
-
-for module in student["modules"]:
-    print(f"  {module['module']}: {module['grade']}")
+for module, grade in modules:
+    print(f"  {module}: {grade}")
