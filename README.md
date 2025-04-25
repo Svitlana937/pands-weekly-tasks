@@ -57,8 +57,11 @@ WEEK8
 ```bash
    python script_name.py
 ```
-https://github.com/Svitlana937/pands-weekly-tasks.git
 
+## How to clone repositiry
+
+```git clone https://github.com/Svitlana937/pands-weekly-tasks.git
+```
 
 
 
