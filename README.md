@@ -60,7 +60,8 @@ WEEK8
 
 ## How to clone repositiry
 
-```git clone https://github.com/Svitlana937/pands-weekly-tasks.git
+```bash
+git clone https://github.com/Svitlana937/pands-weekly-tasks.git
 ```
 
 
