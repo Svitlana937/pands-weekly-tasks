@@ -20,6 +20,8 @@ The repository is organized into folders by week, and each folder contains:
 - File Handling (Opening, reading, and processing text files (with open(...))
 - Working with libraries (e.g., `math`, `datetime`)
 - Basic scripting and automation
+- Numerical & Data Analysis Topics
+- Data Visualization (with Matplotlib)
 
 ## Description of my weekly tasks
 
