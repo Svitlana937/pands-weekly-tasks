@@ -24,3 +24,17 @@ I`m sure you have Python installed.
 To run any script:
 ```bash
 gh repo clone Svitlana937/pands-weekly-tasks
+
+## Description of my weekly tasks
+
+In my search for a solution to weekly tasks, I consulted the following information resources
+ - week3
+https://www.youtube.com/c/TechWithTim
+https://www.youtube.com/watch?v=rfscVS0vtbw
+https://www.youtube.com/c/programmingwithmosh
+
+ - week4
+
+
+
+
