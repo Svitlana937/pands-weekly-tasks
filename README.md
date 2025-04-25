@@ -27,7 +27,14 @@ In my search for a solution to weekly tasks, I consulted the following informati
   - Book                  “Automate the Boring Stuff with Python” by Al Sweigart
   - YouTube Channels      https://www.youtube.com/c/TechWithTim
                           https://www.youtube.com/c/programmingwithmosh
+    
 WEEK4
+  - Free Online Course  – Python Tutorial (https://www.w3schools.com/python/)
+  - https://www.codecademy.com/learn/learn-python-3
+  - YouTube Channels      https://www.youtube.com/watch?v=rfscVS0vtbw
+
+WEEK5
+  
   
 
 ## How to run
