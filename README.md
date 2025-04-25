@@ -54,9 +54,9 @@ WEEK8
 
 ## How to run
 
-I`m sure you have Python installed. 
-To run any script:
 ```bash
+   python script_name.py
+```
 https://github.com/Svitlana937/pands-weekly-tasks.git
 
 
