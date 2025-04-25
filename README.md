@@ -10,11 +10,14 @@ The repository is organized into folders by week, and each folder contains:
 
 ## Topics Covered
 
-- Python basics: variables, data types, and operators
-- Conditional statements and loops
-- Functions and modules
-- File handling
-- Exception handling
+- Python basics: Variables & Data Types (Strings, floats, ints, lists, and dictionaries)  
+- Input/Output (Using input() to get user input and print() to display results)
+- Conditional Statements (if, elif, else for decision making)
+- Loops (while\and\for loops for repetition)
+- Functions (Writing reusable code with def and using return values)
+- String Methods (e.g., .count(), .lower() for analyzing text)
+- Command-Line Arguments (Using sys.argv to read filenames from the terminal)
+- File Handling (Opening, reading, and processing text files (with open(...))
 - Working with libraries (e.g., `math`, `datetime`)
 - Basic scripting and automation
 
@@ -54,7 +57,7 @@ WEEK8
 I`m sure you have Python installed. 
 To run any script:
 ```bash
-gh repo clone Svitlana937/pands-weekly-tasks
+https://github.com/Svitlana937/pands-weekly-tasks.git
 
 
 
