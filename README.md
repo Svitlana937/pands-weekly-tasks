@@ -21,6 +21,7 @@ The repository is organized into folders by week, and each folder contains:
 ## Description of my weekly tasks
 
 In my search for a solution to weekly tasks, I consulted the following information resources
+
  WEEK3
   - Free Online Course  – Python Tutorial (https://www.w3schools.com/python/)
   - Book                  “Automate the Boring Stuff with Python” by Al Sweigart
