@@ -1,14 +1,14 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# 1. Generate 1000 random numbers with mean 5 and std deviation 2
+# Generate 1000 random numbers with mean 5 and std deviation 2
 normal_data = np.random.normal(5, 2, 1000)
 
-# 2. Create x values from 0 to 10 (for plotting h(x) = x^3)
+# Create x values from 0 to 10 (for plotting h(x) = x^3)
 x = np.linspace(0, 10, 100)  # 100 points between 0 and 10
 y = x**3  # h(x) = x^3
 
-# 3. Create the plot
+# Create the plot
 plt.figure(figsize=(10, 6))
 
 # Plot the histogram
