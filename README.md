@@ -16,7 +16,6 @@ The repository is organized into folders by week, and each folder contains:
 - Loops (while\and\for loops for repetition)
 - Functions (Writing reusable code with def and using return values)
 - String Methods (e.g., .count(), .lower() for analyzing text)
-- Command-Line Arguments (Using sys.argv to read filenames from the terminal)
 - File Handling (Opening, reading, and processing text files (with open(...))
 - Working with libraries (e.g., `math`, `datetime`)
 - Basic scripting and automation
